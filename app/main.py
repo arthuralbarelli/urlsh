@@ -1,4 +1,4 @@
-BASE36_CHARS = "0123456789abcdefghijklmnopqrstuvwxyz"
+BASE36_CHARS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 
 def encode(num):
