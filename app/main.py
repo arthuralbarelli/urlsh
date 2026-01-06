@@ -5,6 +5,10 @@ def encode(num):
     return len(BASE36_CHARS)
 
 
+def decode(num):
+    pass
+
+
 def main():
     print(encode(0))
 
